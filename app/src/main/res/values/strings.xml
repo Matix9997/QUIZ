@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QUIZ5</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="Blyskawica">Błyskawica jest widziana, zanim zostanie usłyszana, ponieważ światło porusza się szybciej niż dźwięk.</string>
+    <string name="Watykan">Watykan to kraj.</string>
+    <string name="Melbourne">Melbourne to stolica Australii.</string>
+    <string name="Fuji">Mount Fuji to najwyższa góra w Japonii.</string>
+    <string name="Brokuly">Brokuły zawierają więcej witaminy C niż cytryny.</string>
+    <string name="correct_answer">GRATULACJE DOBRA ODPOWIEDZ</string>
+    <string name="incorrect_answer">ZŁA ODPOWIEDZ</string>
+
+</resources>
